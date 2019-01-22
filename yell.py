@@ -16,7 +16,7 @@ off = 'I102020111112011111210112021111020'
 
 init_delay = 0.002676
 on_delay = 0.000265
-short_off_delay = 0.00027 # this might be same os on_delay
+short_off_delay = 0.00027 # this might be same as on_delay
 long_off_delay = 0.001295
 repeate_delay = 0.010255
 
